@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there I'm Kirti Kairon 👋</h1>
+<h3>  </h3>
 
-<!--
-**KirtiKairon/KirtiKairon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Beyond academics, you can find me, playing badminton, reading a book or drinking coffee.</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-007ACC?style=for-the-badge&logo=machine-learning&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Finance-6A0DAD?style=for-the-badge&logo=finance&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Science-F97316?style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me elsewhere
+- 📫 How to reach me: kirtikairon1@gmail.com
+- :brain: I did my __
+- ⚡ Fun fact: ___
+- 💬 Ask me about : Anything mentioned above, history, Punjabi music :)
